@@ -65,4 +65,5 @@ C# WinForms 래퍼(exe) + PowerShell 7 빌드 스크립트로 구성되며, 실�
 
 - 토큰·키·`.env` 는 커밋하지 않는다 (`.gitignore` 에 `*.log` 포함)
 - 이 프로그램은 관리자 권한으로 실행되어 시스템 설정을 바꾼다 — 테스트 시 실제 적용 금지
-- upstream 은 MIT 라이선스 — `win11debloat\LICENSE` 를 보존하고 README 에 원본 출처를 남긴다
+- upstream 은 MIT 라이선스 — 저장소 루트 `LICENSE` 에 upstream(Raphire) 과 본 래퍼(mikichat) copyrights 가 함께 명시돼 있다.
+  `win11debloat/` 은 git 미추적이므로 `win11debloat\LICENSE` 를 가리키면 안 된다

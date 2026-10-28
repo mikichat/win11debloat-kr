@@ -234,4 +234,9 @@ win11-debloater/
 ## 📜 8. 라이선스
 
 upstream win11debloat 은 **MIT** 라이선스입니다. 이 래퍼도 같은 조건을 따릅니다.
-원본 라이선스 전문은 `win11debloat\LICENSE` 에 있습니다.
+라이선스 전문은 저장소 루트의 [`LICENSE`](LICENSE) 파일에 있습니다.
+
+| 구성 | 저작권 |
+|---|---|
+| win11debloat (원본 스크립트·카탈로그) | Copyright (c) 2020 Raphire |
+| Win11DebloatKR (`src/`, `tools/`, `build.ps1`) | Copyright (c) 2026 mikichat |
