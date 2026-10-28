@@ -1,18 +1,5 @@
 MIT License
 
-이 저장소는 아래 두 부분으로 이루어져 있으며, 둘 다 MIT License 를 따릅니다.
-
-- **win11debloat** (https://github.com/raphire/win11debloat)
-  빌드 시 `payload.zip` 으로 함께 배포되는 원본 스크립트와 카탈로그의 저작권자입니다.
-  Copyright (c) 2020 Raphire (https://github.com/Raphire)
-- **Win11DebloatKR** (`src/`, `tools/`, `build.ps1`)
-  한국어 GUI 를 담당하는 C# WinForms 래퍼입니다.
-  Copyright (c) 2026 mikichat (https://github.com/mikichat)
-
---------------------------------------------------------------------------
-
-MIT License
-
 Copyright (c) 2020 Raphire (https://github.com/Raphire)
 Copyright (c) 2026 mikichat (https://github.com/mikichat)
 
